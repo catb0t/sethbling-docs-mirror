@@ -10,3 +10,5 @@ currently uploading from:
 - SMW "Kill Bowser" RLX Route https://docs.google.com/document/d/1oP6wuPf_XEfq79tXobMQzGvxCuJJ_ulSL10vnkbFNAM/edit
 
 - SMW Single Controller Code Injection https://docs.google.com/document/d/1uglrDhpT2Bwgx1jycMPCtU7n5k_-1dneo-hYCr-SOUI/edit
+
+- 5x5 Timer Challenge https://docs.google.com/document/d/1QYcbF6-LlaXPq-g4lWlvM0lW11u2H6pXfuXbtmfhjg8/edit
